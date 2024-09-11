@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Junaid Umar 👋
 
-<!--
-**junaidumarcit/junaidumarcit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering student and an active learner with a passion for technology and innovation. Over the years, I've completed various introductory courses, including IoT, Generative AI, and ChatGPT-related topics. Currently, I'm diving deep into **Cybersecurity**, completing the **Google Cybersecurity** course on Coursera.
 
-Here are some ideas to get you started:
+### What you'll find here:
+- 🛠️ Projects showcasing my growing expertise in cybersecurity and full-stack development.
+- 📊 Reports and documentation related to security practices and tools.
+- 🌱 Repositories where I experiment with IoT, AI, and other cutting-edge technologies.
+- 💻 Scripts and utilities for SQL, Linux commands, and other development tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest & Skills:
+- **Cybersecurity**: Currently pursuing the Google Cybersecurity course.
+- **Hands-on**: Experience with SQL and Linux commands, as well as preparing security-related reports.
+- **Technologies**: IoT, Generative AI, Cloud Services
+- **Programming Languages**: JavaScript, Python, Java, SQL
+
+### Let's Connect:
+- LinkedIn: https://www.linkedin.com/in/junaid-umar
+- Email: mailto:1cg23cs037@cittumkur.org
+
+I'm always eager to collaborate, learn, and explore new technologies. Feel free to connect and explore my projects!
+
